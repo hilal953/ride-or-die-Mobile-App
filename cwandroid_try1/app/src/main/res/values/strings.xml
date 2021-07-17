@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RIDE OR DIE</string>
+    <string name="button1">Identify the Car Make</string>
+    <string name="button2">Hints</string>
+    <string name="button3">Identify the Car Image</string>
+    <string name="button4">Advanced Level</string>
+    <string name="identify_button">Identify</string>
+    <string name="textview2_true"></string>
+    <string name="textview_answer"></string>
+    <string name="textview2_label">Select Car Type</string>
+    <string name="textview" />
+    <string name="button_fourthactivity">Next</string>
+    <string name="editText_hint">Car Name</string>
+    <string name="submit">Submit</string>
+    <string name="Timer">Counter</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="timer">timer</string>
+
+    <string-array name="cartype_array">
+        <item>BMW</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyhundai</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+    </string-array>
+
+
+</resources>
